@@ -11,7 +11,7 @@ if ($connection->connect_errno) {
     exit();
 }
 
-$id=mysqli_real_escape_string($_GET['id']);
+$id=mysqli_real_escape_string($connection,intval($_GET['id']));
 $result = $connection->query("SELECT * FROM users where id=$id limit 0,1");
 
 //Initialize array variable
