@@ -1,17 +1,12 @@
 <style>
-#three-scale{
-position: absolute;
+.popup {
+position: fixed;
 top: 50%;
 left: 50%;
-margin-top: -50px;
-margin-left: -50px;
-width: 100px;
-height: 100px;
-font-size: 40px;
-font-weight: bold;
-color:green;
+-webkit-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
 }​
 </style>
 <?php
-echo "<div id='three-scale'>3Scale API Management</div>";
+echo "<div class='popup'>3Scale API Management</div>";
 ?>
