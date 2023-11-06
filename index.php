@@ -11,5 +11,5 @@ color: green;
 }​
 </style>
 <?php
-echo "<div class='popup'>3Scale API Management</div>";
+echo "<div class='popup'>Welcome to <u>3Scale</u> API Management</div>";
 ?>
