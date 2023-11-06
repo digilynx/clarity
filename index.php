@@ -1,3 +1,7 @@
-<?php
-echo "<centre style='font-size:30px;color:green;font-weight:bold;'>3Scale API Management</centre>";
-?>
+<!DOCTYPE html>
+<html>
+   <body>
+      <p><center>Welcome to TutorialsPoint</center></p>
+      <p>The Best E-Way learning.</p>
+   </body>
+</html>
