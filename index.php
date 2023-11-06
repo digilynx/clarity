@@ -8,6 +8,9 @@ transform: translate(-50%, -50%);
 color: green;
   font-weight:bold;
   font-size:40px;
+}
+u{
+  color:red;
 }​
 </style>
 <?php
