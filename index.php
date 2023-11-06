@@ -1,3 +1,3 @@
 <?php
-echo 'Hello OpenShift 3scale API Gateway new build';
+echo "<div style='font-size:30px.color:green,padding:100px;'>3Scale API Management</div>";
 ?>
