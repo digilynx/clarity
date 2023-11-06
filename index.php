@@ -1,3 +1,3 @@
 <?php
-echo 'Hello OpenShift 3scale API Gateway';
+echo 'Hello OpenShift 3scale API Gateway new build';
 ?>
